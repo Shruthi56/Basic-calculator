@@ -25,7 +25,6 @@ else:
         result = number2 / number1
     else :
         print("Enter valid operation : +, -, *, /, %")
-        
 
 print(result)
 
